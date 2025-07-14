@@ -1,10 +1,15 @@
+## Russian Characters Quizz
 As Im currently learning Russian myself wanted to do a easy mini-game for the alphabet.
-It was built using spring boot , thymeleaf and bootstrap.
 
 You can try it out for free here!!
 https://russiancharactersquizz-production.up.railway.app/
 
-Examples:
+## ¿What did I use to create it?
+ - Spring Boot
+ - Thymeleaf
+ - Bootstrap
+
+## Examples:
 <img width="1403" height="479" alt="image" src="https://github.com/user-attachments/assets/94301c5a-80f3-45da-a6bc-4247d90e7459" />
 
 Right Answer case:
